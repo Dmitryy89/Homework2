@@ -1,0 +1,6 @@
+table {border-collapse: collapse; width: 100%; margin: auto;}
+        td{border: 15px solid white;}
+        table#t1 { background-color: rgba(255, 174, 0, 0.699); height: 100px;}
+        table#t2 { background-color: rgba(0, 174, 255, 0.815); height: 250px;}
+        table#t3 { background-color: rgba(0, 128, 68, 0.829); height: 200px;}
+        table#t4 { background-color: yellowgreen; height: 150px;}

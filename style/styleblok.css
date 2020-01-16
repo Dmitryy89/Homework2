@@ -1,0 +1,16 @@
+
+#container {background: white; display: flex;  width: initial; justify-content: space-around; align-items: center;}
+#container > div {background: rgba(255, 174, 0, 0.699); 
+     height: 80px;width:48%; margin: 20px; margin-top: 5px; margin-bottom:10px ;}
+
+#container1 {background: white; display: flex;  width: initial; justify-content: space-around; align-items: center; }
+#container1 > div {background: rgba(0, 174, 255, 0.815); 
+      height: 250px;width: 98%; margin: 20px; margin-top: 10px; margin-bottom:10px;}
+
+#container2 {background: white; display: flex; width: initial;justify-content: space-around; align-items: center; }
+#container2 > div {background: rgba(0, 128, 68, 0.829); 
+     height: 180px;width: 32%; margin: 20px; margin-top: 10px; margin-bottom:10px;}
+
+#container3 {background: white; display: flex; width: initial;  justify-content: space-around; align-items: center; }
+#container3 > div {background: yellowgreen;  
+     height: 130px; width:24%;margin: 20px; margin-top: 10px; margin-bottom:5px;}

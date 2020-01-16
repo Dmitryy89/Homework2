@@ -1,0 +1,16 @@
+body {height: 100%; margin: 0; padding: 0px; font-family: Arial,sans-serif; font-size: 14px;
+    background-color: rgba(231, 204, 204, 0.63);}
+.header {height: 15%; width: 90%; margin-left: 5%; background: rgb(91, 139, 184); color: white;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    position: absolute;}
+.footer {height: 15%; margin-left: 5%; background: rgb(86, 86, 119); color: white; 
+    position: absolute; left: 0; bottom: 0; width: 90%;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;}
+.content{ width: 100%; position: relative; min-height: 100%;}
+.sidebar {background: rgba(255, 231, 153, 0.500); float: left; position: fixed;
+    margin-top: 60px; width: 10%; height: 600px;}
+.head {font-size: 30px; margin: 0; padding: 10px;}
+.foot {font-size: 30px; margin: 0; padding: 10px;}
+.text {padding-left: 12%; padding-top: 10%; font-size: large; padding-bottom: 10%; padding-right: 10%;}
